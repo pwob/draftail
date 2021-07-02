@@ -1,7 +1,7 @@
 {
   "name": "draftail",
   "version": "1.3.0",
-  "description": "📝🍸 A configurable rich text editor built with Draft.js",
+  "description": "📝🍸 A configurable rich text editor built with Draft.js - Whispir's fork - passes on aria properties",
   "author": "Springload",
   "license": "MIT",
   "main": "dist/draftail.cjs.js",
@@ -22,10 +22,10 @@
   ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/springload/draftail.git"
+    "url": "https://github.com/whispir/draftail"
   },
   "bugs": {
-    "url": "https://github.com/springload/draftail/issues"
+    "url": "https://github.com/whispir/draftail/issues"
   },
   "homepage": "https://www.draftail.org/",
   "files": [
